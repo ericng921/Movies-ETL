@@ -21,6 +21,8 @@ In the module, we imported the files from our computer by using extract_transfor
 
 THe movies table has 6,052 rows.
 
-
+![movies_query](https://user-images.githubusercontent.com/100378319/164911810-eb314832-9321-4480-ac8d-c89400ddbffc.png)
 
 The ratings table has 26,024,289 rows.
+
+![ratings_query](https://user-images.githubusercontent.com/100378319/164911812-cfbc8b82-1670-4ce9-8324-ab58010d3ba2.png)
